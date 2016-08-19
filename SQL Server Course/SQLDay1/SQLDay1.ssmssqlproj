@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQLDay1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="KG_TRAINING08\KUBRICK:KG_Training08\student08">
+          <Created>2016-08-18T13:17:24.2688495+01:00</Created>
+          <Type>SQL</Type>
+          <Server>KG_TRAINING08\KUBRICK</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Filtering.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Filtering.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LikeRules.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LikeRules.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ManipulatingStrings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ManipulatingStrings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ManipulatinStrings1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ManipulatinStrings1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ReplaceStuff.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ReplaceStuff.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ReturningPartStr.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ReturningPartStr.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TopWTies.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TopWTies.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UpdatingTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UpdatingTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UsingDiffOrder.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UsingDiffOrder.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UsingSoundex.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UsingSoundex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="usingTop.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>usingTop.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQLDay2">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="KG_TRAINING08\KUBRICK:KG_Training08\student08">
+          <Created>2016-08-19T09:31:13.6358229+01:00</Created>
+          <Type>SQL</Type>
+          <Server>KG_TRAINING08\KUBRICK</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="aggregating.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>aggregating.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cancatinating.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Cancatinating.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dateFormat.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>dateFormat.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Filters.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Filters.sql</FullPath>
+        </FileNode>
+        <FileNode Name="isNullNullIf.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>isNullNullIf.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Joins.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Joins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="numericData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>numericData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="usingCase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>usingCase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="usingUnion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING08\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING08\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>usingUnion.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
